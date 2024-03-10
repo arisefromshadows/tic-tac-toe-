@@ -7,6 +7,6 @@ pygame lib,
 time lib
 
 Game Objective:
-Two players try to plot three consequtive markk(X,O) in a 3X3 grid while restricting the other player to acheive the same objective
+Two players try to plot three consequtive mark(X,O) in a 3X3 grid while restricting the other player to acheive the same objective
 
 Some sample images are attached in sample folder
